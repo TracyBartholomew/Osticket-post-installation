@@ -31,15 +31,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-![image alt](https://github.com/TracyBartholomew/Osticket-post-installation/blob/b94c8da0451feb5108f1998c16ade38185a1bfe1/IMG_0366.jpeg)
+![Image Alt](https://github.com/TracyBartholomew/Osticket-post-installation/blob/b94c8da0451feb5108f1998c16ade38185a1bfe1/IMG_0366.jpeg)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
+![Image Alt](https://github.com/TracyBartholomew/Osticket-post-installation/blob/e18c5ac62723450fec83d0760654e2d688fef99d/IMG_0365.jpeg)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+!
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
