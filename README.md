@@ -23,10 +23,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Item 1 manage OsTicket help topics
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 2 configure SLA's
+- Item 3 change or reset agent password
 
 <h2>Configuration Steps</h2>
 
@@ -60,7 +58,14 @@ These steps will help you efficiently manage and customize your help desk topics
 <p>
 ![Image Alt](https://github.com/TracyBartholomew/Osticket-post-installation/blob/dd8faf8b8cc7499b970bb4b48d7a448108b21814/IMG_0364.jpeg)
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+•	Log in to your osTicket admin account.
+•	Navigate to the Admin Panel by clicking the gear icon in the top-right corner of the dashboard.
+* Navigate to Agents
+•	In the Admin Panel, go to Agents > Agents.
+•	Find the agent whose password you want to change and click on their name to open their profile.
+* Change the Password
+•	In the agent’s profile, scroll down to the Account Access section.
+•	Enter the new password in the New Password and Confirm New Password fields.
+•	Click Save Changes to update the agent’s password.
+
+The agent can now log in using their new password.
