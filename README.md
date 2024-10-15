@@ -50,9 +50,12 @@ These steps will help you efficiently manage and customize your help desk topics
 !
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+•	In the Admin Panel, go to Manage > SLA Plans. 
+•	This section allows you to view, create, and manage the different SLA plans for your tickets.
+•	To add a new SLA plan, click the Add New SLA button.
+•	Enter the Name of the SLA plan (“High Priority”, “Standard Response”).
+•	Define the Response Time within 24 hours, 4 hours, etc.) and set the plan to apply during Business Hours or 24/7.
+•	To edit an existing SLA plan, click on its name and adjust the settings as needed.
 
 <p>
 ![Image Alt](https://github.com/TracyBartholomew/Osticket-post-installation/blob/dd8faf8b8cc7499b970bb4b48d7a448108b21814/IMG_0364.jpeg)
